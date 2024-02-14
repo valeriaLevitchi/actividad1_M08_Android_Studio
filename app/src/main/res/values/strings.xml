@@ -1,0 +1,18 @@
+<resources>
+    //opciones del spinner
+    <string name="app_name">Mi App</string>
+    <string-array name="opciones_array">
+        <item></item>
+        <item>B</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+        <item>TB</item>
+        <item>PB</item>
+        <item>EB</item>
+        <item>ZB</item>
+        <item>YB</item>
+        <item>BB</item>
+        <item>GB(GEOPGYTE)</item>
+    </string-array>
+</resources>
